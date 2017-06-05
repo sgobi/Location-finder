@@ -1,5 +1,6 @@
 # Location-finder
-Install
+
+
 Download and Extract "Location-finder-master"
 inside "Location-finder-master" folder copy "packages" folder
 in your project, under "app" folder you will past.
